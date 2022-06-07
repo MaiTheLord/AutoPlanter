@@ -1,0 +1,4 @@
+name: AutoPlanter
+version: '${project.version}'
+main: com.autoplanter.AutoPlanter
+api-version: 1.18
